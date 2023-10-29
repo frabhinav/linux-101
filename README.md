@@ -9,7 +9,7 @@ Welcome to the Linux Documentation repository. This repository is dedicated to p
 ## Table of Contents
 
 - [Introduction](Introduction/Introduction.md)
-- [Installation](#installation)
+- [Installation](Installation/Installation.md)
 - [Basic Commands](#basic-commands)
 - [File System](#file-system)
 - [Users and Permissions](#users-and-permissions)
