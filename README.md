@@ -8,7 +8,7 @@ Welcome to the Linux Documentation repository. This repository is dedicated to p
 
 ## Table of Contents
 
-- [Introduction](Introduction.md)
+- [Introduction](Introduction/Introduction.md)
 - [Installation](#installation)
 - [Basic Commands](#basic-commands)
 - [File System](#file-system)
