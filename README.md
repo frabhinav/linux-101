@@ -11,7 +11,7 @@ Welcome to the Linux Documentation repository. This repository is dedicated to p
 - [Introduction](Introduction/Introduction.md)
 - [Installation](Installation/Installation.md)
 - [Basic Commands](Basic-Commands/Basic-Commands.md)
-- [File System](#file-system)
+- [File System](File_system/File_system.md)
 - [Users and Permissions](#users-and-permissions)
 - [Networking](#networking)
 - [Shell Scripting](#shell-scripting)
