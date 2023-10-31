@@ -13,7 +13,7 @@ Welcome to the Linux Documentation repository. This repository is dedicated to p
 - [Basic Commands](Basic-Commands/Basic-Commands.md)
 - [File System](File_System/File_System.md)
 - [Users and Permissions](Users_and_Permissions/Users_and_Permissions.md)
-- [Networking](#networking)
+- [Networking](Networking/Networking.md)
 - [Shell Scripting](#shell-scripting)
 - [System Administration](#system-administration)
 - [Troubleshooting](#troubleshooting)
