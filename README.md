@@ -15,7 +15,7 @@ Welcome to the Linux Documentation repository. This repository is dedicated to p
 - [Users and Permissions](Users_and_Permissions/Users_and_Permissions.md)
 - [Networking](Networking/Networking.md)
 - [Shell Scripting](Shell_Scripting/Shell_Scripting.md)
-- [System Administration](#system-administration)
+- [System Administration](System_Administration/System_Administration.md)
 - [Troubleshooting](#troubleshooting)
 - [Advanced Topics](#advanced-topics)
 
