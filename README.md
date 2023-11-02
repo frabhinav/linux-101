@@ -16,7 +16,7 @@ Welcome to the Linux Documentation repository. This repository is dedicated to p
 - [Networking](Networking/Networking.md)
 - [Shell Scripting](Shell_Scripting/Shell_Scripting.md)
 - [System Administration](System_Administration/System_Administration.md)
-- [Troubleshooting](#troubleshooting)
+- [Troubleshooting](Troubleshooting/Troubleshooting.md)
 - [Advanced Topics](#advanced-topics)
 
 ...
