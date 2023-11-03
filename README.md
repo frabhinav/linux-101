@@ -17,7 +17,7 @@ Welcome to the Linux Documentation repository. This repository is dedicated to p
 - [Shell Scripting](Shell_Scripting/Shell_Scripting.md)
 - [System Administration](System_Administration/System_Administration.md)
 - [Troubleshooting](Troubleshooting/Troubleshooting.md)
-- [Advanced Topics](#advanced-topics)
+- [Advanced Topics](Advanced_Topics/Advanced_Topics)
 
 ...
 
