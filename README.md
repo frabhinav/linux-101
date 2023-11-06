@@ -1,6 +1,4 @@
 # linux-101
-Your go-to resource for mast
-ering Linux: in-depth guides, commands, and troubleshooting. Perfect for beginners and experienced users alike. Open for collaboration. 🐧 #Linux #OpenSource
 
 # Linux Documentation
 
