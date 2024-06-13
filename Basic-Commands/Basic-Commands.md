@@ -94,6 +94,13 @@ Example:
 ```bash
 $ man ls
 ```
+# File Viewing and Editing
+
+## 1. `cat` -  Concatenate and display the content of files.
+Example:
+```bash
+$ cat
+```
 
 These are just a few of the essential Linux commands to get you started. Experiment with these commands, and over time, you'll become more comfortable with the Linux command-line interface. 
 
