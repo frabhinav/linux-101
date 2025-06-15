@@ -140,7 +140,7 @@ Example:
 $ vim FILE_NAME
 ```
 
-## 5. `head` - Display the first part of a file.
+## 6. `head` - Display the first part of a file.
 
 Displays the first N lines of a file. If no number is specified, it defaults to showing the first 10 lines.
 
@@ -149,8 +149,7 @@ Example:
 $ head -n N FILE_NAME
 ```
 
-
-## `tail` - Display the last part of a file.
+## 7. `tail` - Display the last part of a file.
 
 Displays the last N lines of a file. By default, it shows the last 10 lines. It can also be used to monitor file changes in real-time with the -f option.
 
@@ -159,7 +158,7 @@ Example:
 $ tail -n N FILE_NAME
 ```
 
-## `grep` - Search text using patterns.
+## 8. `grep` - Search text using patterns.
 
 Searches for lines matching a specified pattern in a file and outputs those lines. It supports regular expressions and various options for refined searching.
 
@@ -168,7 +167,133 @@ Example:
 $ grep 'pattern' FILE_NAME
 ```
 
+## 9. `echo` - Display a line of text or variables
 
+The `echo` command outputs the text or variable values to the terminal.
+
+Example:
+```bash
+$ echo "Hello, Linux!"
+Hello, Linux!
+```
+
+## 10. `whoami` - Show current username
+
+Displays the username of the currently logged-in user.
+
+Example:
+```bash
+$ whoami
+abhinav
+```
+
+## 11. `clear` - Clear the terminal screen
+
+Removes all previous command outputs and gives you a clean terminal window.
+
+Example:
+```bash
+$ clear
+```
+
+## 12. `history` - Show previously run commands
+
+Displays the list of commands you've recently used.
+
+Example:
+```bash
+$ history
+```
+
+## 13. `chmod` - Change file permissions
+
+Modifies the read, write, and execute permissions of a file or directory.
+
+Example:
+```bash
+$ chmod +x script.sh
+```
+
+## 14. `chown` - Change file ownership
+
+Changes the owner (and optionally group) of a file.
+
+Example:
+```bash
+$ sudo chown newuser:newgroup file.txt
+```
+
+## 15. `find` - Search for files in a directory hierarchy
+
+Helps you locate files by name, type, size, etc.
+
+Example:
+```bash
+$ find . -name "file.txt"
+```
+
+## 16. `df` - Show disk space usage
+
+Displays available and used disk space on all mounted filesystems.
+
+Example:
+```bash
+$ df -h
+```
+
+## 17. `du` - Estimate file or directory size
+
+Shows the space used by files or directories.
+
+Example:
+```bash
+$ du -sh directory_name
+```
+
+## 18. `ps` - Display current running processes
+
+Gives information about active processes.
+
+Example:
+```bash
+$ ps aux
+```
+
+## 19. `top` - Monitor system processes in real time
+
+Displays real-time system metrics like CPU, memory, and process usage.
+
+Example:
+```bash
+$ top
+```
+
+## 20. `kill` - Terminate a process
+
+Ends a process by its PID (Process ID).
+
+Example:
+```bash
+$ kill 1234
+```
+
+## 21. `wget` - Download files from the internet
+
+A non-interactive tool to download files from the web via HTTP, HTTPS, or FTP.
+
+Example:
+```bash
+$ wget https://example.com/file.zip
+```
+
+## 22. `curl` - Transfer data from or to a server
+
+Similar to `wget` but more powerful for interacting with APIs and network testing.
+
+Example:
+```bash
+$ curl https://example.com
+```
 
 These are just a few of the essential Linux commands to get you started. Experiment with these commands, and over time, you'll become more comfortable with the Linux command-line interface. 
 
